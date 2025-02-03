@@ -1,5 +1,5 @@
-# Block-and-Ball-Effect
-Block and Ball project Effect Collection
+# Unity-VFX-Effect
+Unity-VFX-Effect (for Block and Ball project)
 
 ## [Project Page](https://github.com/YeoJune/Block_and_Ball_Demo)
 
